@@ -7,13 +7,13 @@ is a compact and lightweight shell emulator that replicates the functionality of
 
 **Command execution:** Run commands, programs, and scripts just like in a standard shell.
 **Built-in commands:** Implement a set of basic built-in commands to manipulate files, navigate directories, and manage processes, Here some of built-in commands i manipulate :
-	◦ `echo` with option -n,
-	◦ `cd` with only a relative or absolute path,
-	◦ `pwd` with no options,
-	◦ `export` with no options,
-	◦ `unset` with no options,
-	◦ `env` with no options or arguments,
-	◦ `exit` with no options.
+	 ◦ `echo` with option -n,
+ 	 ◦ `cd` with only a relative or absolute path,
+  	 ◦ `pwd` with no options,
+   	 ◦ `export` with no options,
+	 ◦ `unset` with no options,
+	 ◦ `env` with no options or arguments,
+	 ◦ `exit` with no options.
 **Piping and redirection:** Explore the power of input/output redirection and piping multiple commands together.
 **Environment variables:** Understand how environment variables are set, modified, and utilized within the shell.
 **Tab completion:** Enhance user experience with tab-based command and filename completion.
