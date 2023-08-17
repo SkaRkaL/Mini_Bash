@@ -11,13 +11,13 @@
 **Built-in commands:**
 - Implement a set of basic built-in commands to manipulate files, navigate directories, and manage processes, Here some of built-in commands i manipulate :
 ```bash
-  	◦ echo with option -n,
- 	◦ cd with only a relative or absolute path,
-  	◦ pwd with no options,
-   	◦ export with no options,
-	◦ unset with no options,
-	◦ env with no options or arguments,
-	◦ exit with no options.
+  	◦ echo: with option -n,
+ 	◦ cd: with only a relative or absolute path,
+  	◦ pwd: with no options,
+   	◦ export: with no options,
+	◦ unset: with no options,
+	◦ env: with no options or arguments,
+	◦ exit: with no options.
 ```
 
 **Piping and redirection:**
