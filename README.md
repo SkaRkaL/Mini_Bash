@@ -1,14 +1,14 @@
 # Description:
 
-### `Mini_Bash`
+### Mini_Bash
 **Mini_Bash** is a compact and lightweight shell emulator that replicates the functionality of a real Bash shell. Developed with a focus on simplicity and educational purposes, this project provides a hands-on opportunity to explore the core features of a command-line interface.
 
 ## Features :
 
-**`Command execution:`** 
+**Command execution:** 
 - Run commands, programs, and scripts just like in a standard shell.
 
-**`Built-in commands:`**
+**Built-in commands:**
 - Implement a set of basic built-in commands to manipulate files, navigate directories, and manage processes, Here some of built-in commands i manipulate :
 ```bash
   	◦ echo with option -n,
@@ -61,5 +61,3 @@
 >```bash
 > $ brew intall readline
 >```
-
-
