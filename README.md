@@ -20,26 +20,26 @@
 	◦ exit with no options.
 ```
 
-**`Piping and redirection:`**
+**Piping and redirection:**
 - Explore the power of input/output redirection and piping multiple commands together.
 
-**`Environment variables:`** 
+**Environment variables:** 
 - Understand how environment variables are set, modified, and utilized within the shell.
 
-**`Tab completion:`** 
+**Tab completion:** 
 - Enhance user experience with tab-based command and filename completion.
 
-**`Customizability:`** 
+**Customizability:** 
 - Modify the shell's behavior and appearance to suit your preferences.
 
-**`Scripting support:`** 
+**Scripting support:** 
 - Create and execute shell scripts to automate tasks and workflows.
 
-### _`Why mini_bash?`_
+### _Why mini_bash?_
 - This project is designed for individuals who want to deepen their understanding of how shells work behind the scenes. By recreating the core functionalities of a Bash shell, mini_bash provides an insightful learning experience for aspiring programmers, system administrators, and enthusiasts who want to delve into the world of command-line interfaces.
 
 
-### ``Contributions:``
+### Contributions:
 - **Contributions** to mini_bash are welcome! Whether you're interested in adding new features, improving existing ones, or fixing bugs, your contributions can help make this project an even better resource for learning and experimentation.
 
 
@@ -61,4 +61,5 @@
 >```bash
 > $ brew intall readline
 >```
+
 
