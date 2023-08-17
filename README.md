@@ -22,15 +22,15 @@ is a compact and lightweight shell emulator that replicates the functionality of
 **Customizability:** Modify the shell's behavior and appearance to suit your preferences.
 **Scripting support:** Create and execute shell scripts to automate tasks and workflows.
 
-## Why mini_bash?
+### Why mini_bash?
 This project is designed for individuals who want to deepen their understanding of how shells work behind the scenes. By recreating the core functionalities of a Bash shell, mini_bash provides an insightful learning experience for aspiring programmers, system administrators, and enthusiasts who want to delve into the world of command-line interfaces.
 
 
-- Contributions:
+### Contributions:
 Contributions to mini_bash are welcome! Whether you're interested in adding new features, improving existing ones, or fixing bugs, your contributions can help make this project an even better resource for learning and experimentation.
 
 
-- Getting Started:
+### Getting Started:
 To get started with mini_bash, clone this repository to your local machine and follow the instructions in the README.md file. Feel free to explore the code, experiment with different commands, and contribute to the project's growth.
 
 
