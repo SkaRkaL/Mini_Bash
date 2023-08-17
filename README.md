@@ -11,13 +11,13 @@
 **Built-in commands:**
 - Implement a set of basic built-in commands to manipulate files, navigate directories, and manage processes, Here some of built-in commands i manipulate :
 ```bash
-  	◦ echo: with option -n,
- 	◦ cd: with only a relative or absolute path,
-  	◦ pwd: with no options,
-   	◦ export: with no options,
-	◦ unset: with no options,
-	◦ env: with no options or arguments,
-	◦ exit: with no options.
+  	◦ echo with option -n,
+ 	◦ cd with only a relative or absolute path,
+  	◦ pwd with no options,
+   	◦ export with no options,
+	◦ unset with no options,
+	◦ env with no options or arguments,
+	◦ exit with no options.
 ```
 
 **Piping and redirection:**
@@ -47,7 +47,7 @@
 - 1- First of all you need to clone the repository to your local machine,
 
 >```git
-> $ git clone <repo>
+> $ git clone https://github.com/SkaRkaL/Mini_Bash.git
 >```
 
 - 2- Secondly you need to install `brew` :
@@ -61,3 +61,4 @@
 >```bash
 > $ brew intall readline
 >```
+
